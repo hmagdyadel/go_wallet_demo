@@ -301,9 +301,9 @@ lib/
 ## 📥 Download
 
 ### APK Release
-Download and test the latest version:
+Download and test the latest version: **v1.0.0+7**
 
-**[📲 Download Go Wallet APK](releases/app-release.apk)**
+**[📲 Download Go Wallet APK v1.0.0+7](releases/app-release.apk)** (Updated: October 01, 2025)
 
 *Compatible with Android 5.0 (API 21) and above*
 
