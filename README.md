@@ -301,7 +301,7 @@ lib/
 ## 📥 Download
 
 ### APK Release
-Download and test the latest version: **v1.0.0+9**
+Download and test the latest version: **v1.0.0+10**
 
 **[📲 Download Go Wallet APK v1.0.0+7](releases/app-release.apk)** (Updated: October 01, 2025)
 
