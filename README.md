@@ -309,6 +309,15 @@ Download and test the latest version: **v1.0.0+11**
 
 ---
 
+🔑 Demo Login Credentials
+🔗 Click here for easy-copy credentials →
+Interactive page with copy buttons that show "Copied!" when clicked - just like the app!
+
+Or use these credentials directly:
+FieldValueUsernamehaithammagdyPasswordhaitham@12
+
+💡 Tip: Use the interactive page above for the best experience with one-click copy functionality.
+
 ## 🔄 CI/CD Pipeline
 
 Go Wallet uses **Fastlane** for automated build and distribution:
