@@ -307,16 +307,21 @@ Download and test the latest version: **v1.0.0+11**
 
 *Compatible with Android 5.0 (API 21) and above*
 
----
+### 🔑 Demo Login Credentials
 
-🔑 Demo Login Credentials
-🔗 Click here for easy-copy credentials →
-Interactive page with copy buttons that show "Copied!" when clicked - just like the app!
+**Username:**
+```
+haithammagdy
+```
 
-Or use these credentials directly:
-FieldValueUsernamehaithammagdyPasswordhaitham@12
+**Password:**
+```
+haitham@12
+```
 
-💡 Tip: Use the interactive page above for the best experience with one-click copy functionality.
+> 💡 **Tip:** Click the copy icon (📋) that appears when you hover over each box above.
+
+
 
 ## 🔄 CI/CD Pipeline
 
